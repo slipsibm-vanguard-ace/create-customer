@@ -13,7 +13,7 @@
   "paths": {
     "/createcustomer": {
       "post": {
-        "description": "Crate a customer representation",
+        "description": "Crate a customer representation ",
         "operationId": "postCreatecustomer",
         "requestBody": {
           "description": "The request body for the operation",
